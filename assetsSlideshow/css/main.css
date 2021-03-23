@@ -290,7 +290,7 @@ input, select, textarea {
 			}
 
 		}
-
+/* bodytext */
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
